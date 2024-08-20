@@ -1,7 +1,3 @@
-Here’s a description file for your Digital e-Parking project:
-
----
-
 # Digital e-Parking System
 
 ## Project Overview
@@ -34,6 +30,3 @@ The Digital e-Parking System is a C++ based application designed to manage parki
 - **GUI Integration**: Extend the program with a graphical user interface for easier interaction.
 - **Dynamic Slot Management**: Allow dynamic resizing of the number of parking slots.
 
----
-
-This description file can serve as a README for your project on GitHub or other documentation purposes.
