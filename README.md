@@ -18,7 +18,7 @@ The Digital e-Parking System is a C++ based application designed to manage parki
 
 ## Requirements
 - **C++**: The code is written in C++ and uses standard libraries such as `<iostream>` and `<iomanip>`.
-- **File `save.txt`**: A text file that stores the status of the parking slots. This file must be present in the working directory.
+- **File `save.txt`**: A text file that stores the status of the parking slots. This file must be present in the current working directory from where code fetches it.
 
 ## Usage Instructions
 1. **Compile and Run**: Compile the program using a C++ compiler and run the executable.
